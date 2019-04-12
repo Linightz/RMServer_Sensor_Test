@@ -14,5 +14,3 @@ This script is NOT designed for sensor test that will need to reboot the system 
 This script is designed to run on RHEL7.
 
 If sensor name contains spaces, use double quotes or it will be errors.
-
-This script is NOT designed for sensor test that will reboot the system.
