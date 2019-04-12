@@ -7,7 +7,7 @@ This script intends to run all kinds of BMC sensor assertion/deassertion tests w
 This script is NOT designed for sensor test that will need to reboot the system or with other triggering machanism.
 This script is designed to run on RHEL7.
 
-# Script usage: ./sensor_test.sh <Sensor_Name> <Event_Reading_Mask>
+## Script usage: ./sensor_test.sh <Sensor_Name> <Event_Reading_Mask>
 
 If sensor name contains spaces, use double quotes or it will be errors.
 This script is NOT designed for sensor test that will reboot the system.
